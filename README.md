@@ -2,7 +2,7 @@
 Test Access? 
 
 ## DONE
-Ce <a href="https://rifkifau.github.io/webgis-leaflet">kesini</a> coba
+Cek <a href="https://rifkifau.github.io/webgis-leaflet">kesini</a> coba
 
 ## Project Screenshot
 ![webgis dengan qgis2leaf](https://user-images.githubusercontent.com/24805357/35444840-5c9b2500-02e2-11e8-8f3f-901bd5d39e73.jpg)
