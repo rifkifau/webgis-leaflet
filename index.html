@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>QGIS2leaf webmap</title>
+		<title>Leaflet Testing</title>
 		<meta charset="utf-8" />
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.3/leaflet.css" />
 		<link rel="stylesheet" href="css/MarkerCluster.css" />
@@ -280,7 +280,7 @@
 			return this._div;
 		};
 		title.update = function () {
-			this._div.innerHTML = '<h2>This is the title</h2>This is the subtitle'
+			this._div.innerHTML = '<h2>Peta Pesisir Selatan Provinsi DIY</h2>Dibuat dengan QGIS2Leaf oleh Rifki Fauzi'
 		};
 		title.addTo(map);
 		var osmGeocoder = new L.Control.OSMGeocoder({
